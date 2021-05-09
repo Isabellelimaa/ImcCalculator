@@ -47,11 +47,12 @@ const styles = {
     alignItems: 'center',
     minHeight: '100px',
     backgroundColor: 'white',
+    borderRadius:'9px'
   },
   title: {
     fontSize: '62px',
-    color: '#212121',
     textAlign: 'center',
+    fontFamily: "'Sacramento', cursive",
     fontWeight: '600',
   },
   subTitle: {
